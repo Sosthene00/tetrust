@@ -1,4 +1,4 @@
-## struct
+    ## struct
 
 A struct is a composite data type that allows you to define your own custom data structure by combining different types into a single unit. It is similar to a struct in C or a class in other languages.
 
